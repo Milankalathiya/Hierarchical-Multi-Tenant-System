@@ -57,9 +57,6 @@ Set your PostgreSQL credentials in src/main/resources/application.properties.
 
 Run the application:
 
-bash
-Copy
-Edit
 mvn spring-boot:run
 Test the API using tools like Postman:
 
